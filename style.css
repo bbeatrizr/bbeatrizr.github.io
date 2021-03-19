@@ -1,0 +1,28 @@
+h1, h2{
+    color: rgb(255, 255, 255);
+}
+body{
+    text-align: center;
+    background:rgb(71, 71, 71);
+    font:normal 16pt arial;
+    font-family: Acme, sans-serif;
+    color: rgb(175, 174, 174);
+    
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+ .topics{
+     font-style: italic;
+     padding: 2px;
+}
+#links{
+    text-decoration:;
+    color:rgb(175, 174, 174);
+    
+}
+
+   
